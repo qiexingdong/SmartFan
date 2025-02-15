@@ -1,7 +1,7 @@
 # 智能温控可调速风扇
-### 技术栈（更新日期25-2-15）
 ![image](https://github.com/qiexingdong/SmartFan/blob/3684cd653865485699de83cb1dab06c25e9fa11f/img/1.png)
 ![image](https://github.com/qiexingdong/SmartFan/blob/3684cd653865485699de83cb1dab06c25e9fa11f/img/2.png)
+### 技术栈（更新日期25-2-15）
 * stm32f103c8t6，cubemx（版本6.8.0），Keil5，hal库
 ##
 ### 资料说明
