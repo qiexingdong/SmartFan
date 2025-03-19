@@ -28,7 +28,7 @@
 * 在手动模式中，在旋钮可调状态下，用户可通过旋转编码器调节风扇转速，在旋钮锁定状态下，用户不可调节风扇转速
 * 在自动模式中，转速等于当前的湿度值或温度值，可修改代码，来实现想要的转速
 ##
-### 实物图
+### 原理图和实物图
 
 ![image](https://github.com/qiexingdong/SmartFan/blob/3684cd653865485699de83cb1dab06c25e9fa11f/img/2.png)
 ![image](https://github.com/qiexingdong/SmartFan/blob/3684cd653865485699de83cb1dab06c25e9fa11f/img/1.png)
