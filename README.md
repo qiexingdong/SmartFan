@@ -27,8 +27,8 @@
 * 在定时模式中，先用上下移动键选择小时、分钟、秒和转速，按下确认键后，可通过编码器旋转设定想要的时间和转速，再按下确认键即设定成功
 * 在手动模式中，在旋钮可调状态下，用户可通过旋转编码器调节风扇转速，在旋钮锁定状态下，用户不可调节风扇转速
 * 在自动模式中，转速等于当前的湿度值或温度值，可修改代码，来实现想要的转速
-
-#### 实物图
+##
+### 实物图
 
 ![image](https://github.com/qiexingdong/SmartFan/blob/3684cd653865485699de83cb1dab06c25e9fa11f/img/2.png)
 ![image](https://github.com/qiexingdong/SmartFan/blob/3684cd653865485699de83cb1dab06c25e9fa11f/img/1.png)
